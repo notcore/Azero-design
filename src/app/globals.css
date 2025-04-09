@@ -1,9 +1,21 @@
 @import "tailwindcss";
+@font-face {
+  font-family: 'grost';
+  src: url('/fonts/Grotesk Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@theme {
+  --font-Grost: 'grost', sans-serif;
+}
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
+
+
 
 @theme inline {
   --color-background: var(--background);
