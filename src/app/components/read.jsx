@@ -18,7 +18,7 @@ function Read() {
           src="/img/ntahlah.PNG"
         />
         <div className="md:mr-auto sm:mr-auto">
-          <h1 className="text-2xl mt-6 md:text-4xl font-bold font-Grost">IG Hyuman.let</h1>
+          <h1 className="text-2xl mt-6 md:text-4xl font-semibold font-Grost">IG Hyuman.let</h1>
           <p className="text-xl mt-3 md:text-2xl md:mt-6 text-gray-600/65">
             You’ve never made a website this fast before.
           </p>
@@ -41,7 +41,7 @@ function Read() {
           src="/img/ntahlah.PNG"
         />
         <div>
-          <h1 className="text-2xl mt-6 md:text-4xl font-bold font-Grost">IG Hyuman.let</h1>
+          <h1 className="text-2xl mt-6 md:text-4xl font-semibold font-Grost">IG Hyuman.let</h1>
           <p className="text-xl mt-3 md:text-2xl md:mt-6 text-gray-600/65">
             You’ve never made a website this fast before.
           </p>

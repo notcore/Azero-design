@@ -26,7 +26,7 @@ function Faq() {
   ];
 
   return (
-    <div className="bg-white flex items-center justify-center min-h-screen">
+    <div className="bg-white flex items-center justify-center my-12">
       <div className="w-full max-w-4xl p-4">
         <h1 className="text-[38px] md:text-6xl font-bold text-center mb-6">FAQ</h1>
         <div className="bg-gray-100/65 rounded-2xl mt-12 shadow p-4">
